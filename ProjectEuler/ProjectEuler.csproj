@@ -41,10 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BitGrid.cs" />
+    <Compile Include="Problem.cs" />
     <Compile Include="Problem015.cs" />
     <Compile Include="EffeciencyDemo.cs" />
     <Compile Include="Problem011.cs" />
+    <Compile Include="Problem023.cs" />
     <Compile Include="ProgramMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
